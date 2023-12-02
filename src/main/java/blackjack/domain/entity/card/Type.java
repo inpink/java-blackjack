@@ -1,4 +1,4 @@
-package blackjack.domain.card;
+package blackjack.domain.entity.card;
 
 public enum Type {
     SPADE,

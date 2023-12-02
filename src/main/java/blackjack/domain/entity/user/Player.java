@@ -1,9 +1,8 @@
-package blackjack.domain.user;
+package blackjack.domain.entity.user;
 
+import blackjack.domain.entity.card.Card;
 import java.util.ArrayList;
 import java.util.List;
-
-import blackjack.domain.card.Card;
 
 /**
  * 게임 참여자를 의미하는 객체
